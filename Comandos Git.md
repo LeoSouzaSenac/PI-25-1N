@@ -1,7 +1,6 @@
 # Comandos Básicos de Git/GitHub para Projetos em Grupo
 
-Este guia ensina o essencial para colaborar em grupo usando Git e GitHub.  
-Ideal para iniciantes que nunca usaram controle de versão.
+Este guia ensina o essencial para colaborar em grupo usando Git e GitHub. 
 
 ---
 
