@@ -21,7 +21,8 @@ Verifique sua configuração:
 ```bash
 git config --list
 ```
-
+Quando rodar o comando acima, aperte ENTER algumas vezes até achar name e email. Confira se são os que você configurou.
+Para sair, aperte a tecla Q.
 ---
 
 ## 2. Clonar um repositório do GitHub
